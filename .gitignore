@@ -1,0 +1,4 @@
+*.csv
+*.pcap
+MachineLearningCVE/
+__pycache__/
